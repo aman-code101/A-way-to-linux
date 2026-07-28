@@ -247,7 +247,8 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg   # Apply the change
 
 ## Screenshots
 
-(I will add the important ones later)
+I do not posses all the screenshots but the ones I do have I will upload. Although they are not enough because the amount of problems were a lot 
+but rest assured you will get all the solutions in this readme if not screenshots.
 
 ---
 
