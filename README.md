@@ -247,9 +247,28 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg   # Apply the change
 
 ## Screenshots
 
-I do not posses all the screenshots but the ones I do have I will upload. Although they are not enough because the amount of problems were a lot 
-but rest assured you will get all the solutions in this readme if not screenshots.
+## Screenshots
 
+### Secure Boot Error
+![Secure Boot Error](images/secure-boot-error.jpg)
+
+### Suspending BitLocker
+![BitLocker PowerShell](images/bitlocker-powershell.jpg)
+
+### Connecting to Internet & Checking Disks
+![WiFi and lsblk](images/wifi-and-lsblk.jpg)
+
+### exFAT Formatting Error
+![exFAT Error](images/exfat-error.jpg)
+
+### Installing auto-cpufreq
+![auto-cpufreq](images/auto-cpufreq.jpg)
+
+### System Update
+![System Update](images/system-update.jpg)
+
+### WiFi Powersave Commands
+![WiFi Powersave](images/wifi-powersave.jpg)
 ---
 
 Made with curiosity and way too many restarts.
